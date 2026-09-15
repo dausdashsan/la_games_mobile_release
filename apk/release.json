@@ -1,12 +1,12 @@
 {
   "app": "LA Games",
-  "version_name": "1.0.12",
-  "version_code": "14",
-  "apk": "apk/la-games-v1.0.12+14-120c77a.apk",
+  "version_name": "1.0.13",
+  "version_code": "15",
+  "apk": "apk/la-games-v1.0.13+15-21497b8.apk",
   "latest": "apk/la-games-latest.apk",
   "source_repository": "dausdashsan/la_games",
   "source_branch": "release",
-  "source_sha": "120c77aa93abd7cdd154f1b74d0ff8d2068b7307",
-  "run_number": "14",
-  "run_id": "34939482512"
+  "source_sha": "21497b8aa522c90929535c3852d381f1c1ac372d",
+  "run_number": "15",
+  "run_id": "34962780400"
 }
